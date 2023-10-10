@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023862582023",
+    "project_id": "softverske-eb020",
+    "storage_bucket": "softverske-eb020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023862582023:android:4598d4390d1853e7ca73a2",
+        "android_client_info": {
+          "package_name": "com.softplatfacoavg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHyTSxt4cl__DCWXIJzo-MGpOyW4dp8yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
